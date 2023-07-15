@@ -15,6 +15,7 @@ footer a {
     font-weight: 500;
     margin-bottom: 2rem;
     display: inline-block;
+    color: rgb(98, 26, 112)
 }
 
 .permalinks {
@@ -45,11 +46,6 @@ footer a {
     background: transparent;
     color: var(--color-bg);
     border-color: var(--color-bg);
-}
-
-.footer__copyright {
-    margin-bottom: 4rem;
-    color: var(--color-bg);
 }
 
 /* ========= Media Query (Small Devices) ========== */

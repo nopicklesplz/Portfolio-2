@@ -1,6 +1,10 @@
 import React from 'react';
 import './projects.css';
 import BOOT from '../../assets/nucamp.png';
+import REACT from '../../assets/react.jpg';
+import NAT from '../../assets/native.png';
+import POST from '../../assets/postman.jpeg';
+import TYPE from '../../assets/typescript.jpg';
 
 const data = [
     {
@@ -11,19 +15,25 @@ const data = [
     },
     {
         id: 2,
-        image: BOOT,
+        image: REACT,
         title: 'React',
         github: 'https://github.com/nopicklesplz/NuCamp-React.git'
     },
     {
         id: 3,
-        image: BOOT,
+        image: NAT,
         title: 'React Native',
         github: 'https://github.com/nopicklesplz/react-native-nucamp.git'
     },
     {
         id: 4,
-        image: BOOT,
+        image: TYPE,
+        title: 'TypeScript',
+        github: 'https://github.com/nopicklesplz/typescript-store.git'
+    },
+    {
+        id: 5,
+        image: POST,
         title: 'MongoDB',
         github: 'https://github.com/nopicklesplz/node-server.git'
     }

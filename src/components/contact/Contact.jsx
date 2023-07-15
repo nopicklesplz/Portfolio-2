@@ -14,7 +14,7 @@ const Contact = () => {
                     <article className='contact__option'>
                         <MdOutlineEmail />
                         <h4>Email</h4>
-                        <h5>moreno_2318@yahoo.com</h5>
+                        <h5 style={{ wordBreak: 'break-word' }}>moreno_2318@yahoo.com</h5>
                         <a href='mailto:moreno_2318@yahoo.com'
                             target='_blank'
                             rel='noreferrer'

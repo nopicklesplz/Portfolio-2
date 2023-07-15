@@ -6,7 +6,7 @@ import {BsGithub} from 'react-icons/bs';
 const Footer = () => {
     return (
         <footer>
-            <a href='#' className='footer__logo'>Jesus M.</a>
+            <a href='#' className='footer__logo'>Porfolio Website: Jesus Moreno;</a>
 
             <ul className='permalinks'>
                 <li><a href='#'>Home</a></li>
@@ -18,10 +18,6 @@ const Footer = () => {
             <div className='footer__socials'>
             <a href='https://www.linkedin.com/in/jesus-moreno-5081291b1/' target='_blank' rel="noreferrer"><BsLinkedin /></a>
             <a href='https://github.com/nopicklesplz' target='_blank' rel="noreferrer"><BsGithub /></a>
-            </div>
-
-            <div className="footer__copyright">
-                <small>&copy; Porfolio Website: JESUS MORENO;</small>
             </div>
         </footer>
     )

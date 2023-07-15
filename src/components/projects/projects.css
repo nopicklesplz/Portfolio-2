@@ -22,10 +22,14 @@
     overflow: hidden;
     display: flex;
     justify-content: center;
+    height: 300px;
+    object-fit: cover;
 }
 
 .project__item-image img {
-    border-radius: 25px;
+    border-radius: 2rem;
+    object-fit: contain;
+    width: 100%;
 }
 
 .project__item h3 {

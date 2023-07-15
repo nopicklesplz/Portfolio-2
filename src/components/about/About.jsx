@@ -3,6 +3,7 @@ import './about.css';
 import ME from '../../assets/profile1.JPG';
 import {FcDiploma1} from 'react-icons/fc';
 import {BsCodeSlash} from 'react-icons/bs';
+import CTA from '../header/CTA';
 
 const About = () => {
     return (
@@ -24,15 +25,15 @@ const About = () => {
                         <article className="about__card">
                             <BsCodeSlash className='about__icon' />
                             <h5>Projects</h5>
-                            <small>React, NodeJs</small>
+                            <small>NPM, Git</small>
                         </article>
                     </div>
 
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae odit libero asperiores nulla molestiae, ut excepturi laborum in odio maiores maxime, assumenda iusto. Temporibus impedit, eveniet aperiam sunt sapiente culpa.
+                        At Nucamp Coding Bootcamp, I acquired a solid foundation in both frontend and backend development. Throughout the bootcamp, I gained hands-on experience in developing web applications utilizing frontend libraries and modern frameworks. Became familiar with backend implementing servers and databases using the MERN stack. Seeking an entry-level software engineer position where I can continue to expand my skill set and make meaningful contributions to cutting-edge software solutions. 
                     </p>
 
-                    <a href='#contact' className='btn btn-primary'>Let's Talk</a>
+                    <CTA />
                 </div>
             </div>
         </section>
