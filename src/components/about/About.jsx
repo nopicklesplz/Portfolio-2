@@ -30,7 +30,7 @@ const About = () => {
                     </div>
 
                     <p>
-                        At Nucamp Coding Bootcamp, I acquired a solid foundation in both frontend and backend development. Throughout the bootcamp, I gained hands-on experience in developing web applications utilizing frontend libraries and modern frameworks. Became familiar with backend implementing servers and databases using the MERN stack. Seeking an entry-level software engineer position where I can continue to expand my skill set and make meaningful contributions to cutting-edge software solutions. 
+                        At Nucamp Coding Bootcamp, I acquired a solid foundation in both frontend and backend development. Throughout the bootcamp, I gained hands-on experience in developing web applications utilizing frontend libraries and modern frameworks. Skilled in conducting thorough testing and debugging, ensuring seamless functionality and user experience. Familiar with database management, version control, and solving complex coding challenges. Seeking an entry-level software engineer position where I can continue to expand my skill set and make meaningful contributions to cutting-edge software solutions. 
                     </p>
 
                     <CTA />
